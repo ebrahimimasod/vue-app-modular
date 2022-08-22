@@ -1,29 +1,32 @@
-# vue-app-modular
+# Vuejs Modula Web App
 
-This template should help get you started developing with Vue 3 in Vite.
+From now on, you can develop more easily in Vuejs with the modular development approach
 
-## Recommended IDE Setup
+## Get started
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+clone this project and work on it
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```bash
+git clone https://github.com/ebrahimimasod/vue-app-modular.git
 ```
+and start it:
 
-### Compile and Hot-Reload for Development
-
-```sh
+```bash
+cd vue-app-modular
+npm i 
 npm run dev
 ```
 
-### Compile and Minify for Production
+## The structure of one module (for example)
 
-```sh
-npm run build
-```
+
+![The structure of a Module](https://i.postimg.cc/Jh1s7Cgz/Capture.png)
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
