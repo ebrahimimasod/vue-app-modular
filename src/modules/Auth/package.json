@@ -1,0 +1,6 @@
+{
+  "name": "@module/Auth",
+  "version": "1.0.0",
+  "author": "Masoud Ebrahimi (ebrahimimasod@gmail.com)",
+  "main": "./src/index.js"
+}
