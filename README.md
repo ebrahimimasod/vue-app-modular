@@ -1,4 +1,4 @@
-# Vuejs Modula Web App
+# Vuejs Modular Web App
 
 From now on, you can develop more easily in Vuejs with the modular development approach
 
