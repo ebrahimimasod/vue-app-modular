@@ -11,9 +11,9 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Vite + Vuejs3" />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/login">login</RouterLink>
+        <RouterLink to="/">Home Page</RouterLink>
+        <RouterLink to="/about">About Page</RouterLink>
+        <RouterLink to="/login">login Page</RouterLink>
       </nav>
     </div>
   </header>
